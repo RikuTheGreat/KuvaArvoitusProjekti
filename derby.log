@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Dec 05 15:34:14 EET 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-013b-6b46-18da-000003034cb8 
+on database directory C:\Tiedostot\KuvaArvoitusProjekti\kuvaarvoitus  with class loader sun.misc.Launcher$AppClassLoader@1b3dc4d5 
+Loaded from file:/C:/Program%20Files/Java/jdk1.7.0/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=C:\Tiedostot\KuvaArvoitusProjekti
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
